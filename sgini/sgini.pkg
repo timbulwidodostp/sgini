@@ -1,5 +1,8 @@
-d 'DEA': Data envelopment analysis
+d 'sgini': Generalized Gini and Concentration coefficients (with factor decomposition) Use sgini With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f fracrank.ado
+f fracrank.sthlp
+f sgini.ado
+f sgini.sthlp
+f sginicorr.ado
+f sginicorr.sthlp
