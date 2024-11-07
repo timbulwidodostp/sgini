@@ -1,6 +1,8 @@
 # sgini
 Generalized Gini and Concentration coefficients (with factor decomposition) Use sgini With STATA 18
 
+https://www.youtube.com/watch?v=Oh1kBC1NIAI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
